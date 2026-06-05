@@ -9,6 +9,10 @@ app_file: app/streamlit_app.py
 pinned: false
 ---
 
+## Live Demo
+
+[Try OpenTutor here](https://uday4-open-tutor.hf.space)
+
 # OpenTutor — Open-Source LLM Study Assistant
 
 OpenTutor is a study assistant powered by an open-source Hugging Face language model. It helps users explain concepts, summarize text, generate quiz questions, rewrite notes, and answer general questions through a Streamlit web interface.
