@@ -219,4 +219,4 @@ rag means retrieve plus generate. embeddings turn text into numbers. vector db f
 
 ## Author
 
-Built as a Generative AI Engineering portfolio project.
+
